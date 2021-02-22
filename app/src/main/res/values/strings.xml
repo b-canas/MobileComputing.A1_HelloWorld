@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello">Hello World!</string>
+    <string name="bg_color">Tap Me to Change Bg Color to GREEN</string>
+    <string name="lets_toast">Let\'s toast!</string>
+</resources>
